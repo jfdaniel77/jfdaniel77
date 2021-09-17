@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Daniel - A Software Engineer from Singapore
 - 👀 I’m interested in serverless architecture and infrastructure automation
-- 🌱 I’m currently building learning course to explore Serverless architecture and implementation
-- 💞️ I’m looking to collaborate in open source project especially in Serverless and deployment automation
+- 🌱 I’m currently building learning course to explore Serverless architecture, Cloud Native Implementation and automation process
+- 💞️ I’m open for collaboration to make better world
 - :open_book: I always keep learning new technologies
-- :computer: I enjoy coding, quiz, challenges, hardworking and accomplishment
+- :computer: I enjoy building new thing, coding, quiz, challenges, hardworking and accomplishment
 - 📫 You can reach me ... jfdaniel77 at gmail.com
 
 <!---
