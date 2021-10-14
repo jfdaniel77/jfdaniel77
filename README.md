@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel - A Software Engineer from Singapore
-- 👀 I’m interested in serverless architecture and infrastructure automation
+- 👀 I’m interested in serverless architecture, cloud native and infrastructure automation
 - 🌱 I’m currently building learning course to explore Serverless architecture, Cloud Native Implementation and automation process
 - 💞️ I’m open for collaboration to make better world
 - :open_book: I always keep learning new technologies
